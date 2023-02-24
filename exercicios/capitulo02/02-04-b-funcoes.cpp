@@ -1,3 +1,6 @@
+// Mostre o valor de X após o comando ser executado
+// b) x = 9 % 2 + 9 / 2
+
 #include <iostream>
 using namespace std;
 int main(int argc, char *argv[])
