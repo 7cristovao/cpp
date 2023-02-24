@@ -1,4 +1,4 @@
-// Exemplo para escrever uma mensagem na tela utilizando a linguagem C++ em Linux
+// Exemplo para escrever uma mensagem na tela utilizando a linguagem C++ em Linux utilizando boas práticas
 
 #include <iostream>
 
