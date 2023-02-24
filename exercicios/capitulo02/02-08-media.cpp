@@ -1,3 +1,5 @@
+// Elaborar um programa para calcular e exibir a média aritmética de dois valores quaisquer
+
 #include <iostream>
 using namespace std;
 int main(int argc, char *argv[])
