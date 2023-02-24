@@ -1,3 +1,12 @@
+// Elaborar um programa para exibir as formas geométricas vistas na figura abaixo
+//
+// *     *****     *    ***********
+// **    *   *    * *    *       *
+// * *   *   *   *   *    *     *
+// *  *  *   *    * *      *   *
+// ***** *****     *        ***
+//
+
 #include <iostream>
 using namespace std;
 int main(int argc, char *argv[])
