@@ -1,3 +1,6 @@
+// mostre o valor de x após o comando ser executado
+// x = 3 + 2 * 5 - 8 / 2
+
 #include <iostream>
 using namespace std;
 int main(int argc, char *argv[])
