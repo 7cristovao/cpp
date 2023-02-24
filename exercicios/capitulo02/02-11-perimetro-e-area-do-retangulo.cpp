@@ -1,3 +1,5 @@
+// Dados os lados a e b de um retângulo, elaborar um programa para calcular e exibir a área e o perímetro do retângulo
+
 #include <iostream>
 using namespace std;
 int main(int argc, char *argv[])
