@@ -1,3 +1,5 @@
+// Exemplo para escrever uma mensagem na tela utilizando a linguagem C++ em Linux
+
 #include <iostream>
 
 int main(int argc, char *argv[])
